@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dika Maulana</h1>
 <h3 align="center">Currently Studying to be a Frontend Developer</h3>
-<img align="right" alt="Coding" width="400" src="[https://camo.githubusercontent.com/97d0c0c4209208d8ec9573c7e213e05872a9f59b703868647b559b77af601cc6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FCoding-Meet&psig=AOvVaw2l1L0RYFM-4sB90bN8wp4I&ust=1711769066531000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCICg1OvCmIUDFQAAAAAdAAAAABAJ)">
-
-
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dikamaulanadka&label=Profile%20views&color=0e75b6&style=flat" alt="dikamaulanadka" /> </p>
 
